@@ -1,5 +1,5 @@
 {
-	"description": "The CodeIgniter framework",
+	"description": "CRUD Data Mahasiswa with CodeIgniter 3",
 	"name": "codeigniter/framework",
 	"type": "project",
 	"homepage": "https://codeigniter.com",
